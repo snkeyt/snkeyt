@@ -13,41 +13,23 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
+    "name": "Neo",
     "email": "736xxxx86@qq.com",
     "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "workExpYear": "3"
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2017.09.01",
+        "2020.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
+      "school": "广东岭南职业技术学院",
+      "major": "软件技术-大数据方向",
+      "academic_degree": "专科"
     }
   ],
   "awardList": [
-    {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
-    },
-    {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
-    }
   ],
   "workExpList": [
     {
