@@ -9,7 +9,7 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://github.com/snkeyt/snkeyt/blob/cdf67dda655d599c1fbababeec86b8af80d3f7b5/resume_qrcode.png",
+    "src": "https://github.com/snkeyt/snkeyt/blob/master/resume_qrcode.png?raw=true",
     "hidden": false,
     "shape": "circle"
   },
