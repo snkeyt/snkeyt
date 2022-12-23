@@ -11,7 +11,7 @@
   "avatar": {
     "src": "https://raw.githubusercontent.com/snkeyt/snkeyt/master/resume_qrcode.png",
     "hidden": false,
-    "shape": "circle"
+    "shape": "square"
   },
   "profile": {
     "name": "韩俊铭",
