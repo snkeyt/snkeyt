@@ -10,13 +10,18 @@
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": false
+    "hidden": false,
+    "shape": "circle"
   },
   "profile": {
-    "name": "Neo",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "workExpYear": "3"
+    "name": "韩俊铭",
+    "email": "1306557624@qq.com",
+    "mobile": "15815821866",
+    "github": "https://github.com/snkeyt",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "广州、佛山",
+    "positionTitle": "前端"
   },
   "educationList": [
     {
@@ -25,68 +30,64 @@
         "2020.06.30"
       ],
       "school": "广东岭南职业技术学院",
-      "major": "软件技术-大数据方向",
-      "academic_degree": "专科"
+      "major": "软件技术",
+      "academic_degree": "专科",
+      "dataIndex": 0
     }
   ],
-  "awardList": [
-  ],
+  "awardList": [],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
+      "company_name": "串联科技有限公司",
+      "department_name": "技术部",
       "work_time": [
-        "2018.06",
-        null
+        "2021.10",
+        "2022.08"
       ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "work_desc": "前端开发工程师，负责主要项目的前端功能实现",
+      "dataIndex": 0 
     },
     {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
+      "company_name": "佛山市众泽机电有限公司",
+      "department_name": "技术部",
       "work_time": [
-        "2017.06",
-        "2017.12"
+        "2020.06",
+        "2021.10"
       ],
-      "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-    },
-    {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "",
-      "work_time": [
-        "2017.03",
-        "2017.05"
-      ],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
-    }
+      "work_desc": "担任前端开发工程师、Python开发工程师",
+      "dataIndex": 1 
+    } 
   ],
   "skillList": [],
   "projectList": [
     {
-      "project_name": "数据作战室",
-      "project_role": "前端负责人",
-      "project_time": "2019.04 - 2020.06",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+      "project_name": "媒体小助手",
+      "project_role": "项目负责人",
+      "project_time": "2022.11 - 至今",
+      "project_desc": "面向媒体人的互联网运营管理工具，提供一站式的媒体平台账号管理和内容分发能力。打通各个互联网平台，实现图文、视频、音频内容一键发布至50+ 平台，涵盖国内外主流媒体平台。\n\n技术栈： Vue3 + Electron + VueRouter + Vite + ElementPlus + Koa2",
+      "project_content": "1. 独立负责产品的开发\n2. 参考市面上同类型产品，确定产品的功能点\n3. 负责前端界面的实现\n4. 负责第三方账号的管理模块功能实现，使用 webview 进行账号 cookie 的提取\n5. 负责第三方平台上传稿件功能的实现",
+      "dataIndex": 0
     },
     {
-      "project_name": "DeepInsight",
-      "project_role": "可视分析负责人",
-      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，主要功能包括可视化看板搭建、智能分析、数据产品建站等。看板功能类似于火山引擎、PowerBI等产品。） ",
-      "project_content": "在该项目中主要负责可视化建设以及工程治理\n1. 主导开放能力建设，拉通产品、设计建设和扩展 40+ 可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设、促进数据分析能力增强等可视化一体化建设。同时也是 AntV G2Plot 负责人，负责将可视化技术和业务相结合。"
+      "project_name": "文件管理器",
+      "project_role": "项目负责人",
+      "project_time": "2022.10 - 2022.11",
+      "project_desc": "本应用主要功能为文件夹的拷贝管理，目标平台是 Windows 。前端界面提供了多种方式查找及定位文件夹，将多个拷贝任务合并成单个传输任务，并调用 Windows 原生文件传输对话框进行传输，使多任务拷贝更直观和清晰。\n\n技术栈：Vue3 + Electron + Vite + ElementPlus",
+      "project_content": "1. 负责项目的框架搭建及所有模块的开发\n2. 使用 Electron 搭建用户界面，功能模块使用 NodeJS 搭配 AutoIt 实现\n3. 与客户沟通需求，不断优化产品使用体验",
+      "dataIndex": 1
     },
     {
-      "project_name": "G2、G2Plot",
-      "project_role": "核心开发者",
-      "project_time": "2019 - 至今",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
+      "project_name": "家具物流管理平台",
+      "project_role": "前端开发",
+      "project_time": "2021.09 - 2022.09",
+      "project_desc": "这是一个家具物流管理平台，为家具供应商、家具物流商以及家具经销商提供服务，为商家销售提供便利的功能及数据分析能力。商家可以在平台上管理电商订单，并可直接与物流商沟通发货。物流商在平台上可处理物流异常、服务商家。\n\n技术栈： Vue2 + AntDesign",
+      "project_content": "1. 负责前端基础的 CRUD 功能的开发，并抽象出 CRUD 组件，方便日常开发维护\n2. 负责前端数据报表的开发\n3. 负责前端的维护及BUG修复",
+      "dataIndex": 2
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+    "aboutme_desc": "1、精通 HTML5 + JavaScript + CSS3 开发模式\n2、能够熟练使用 Vue 全家桶进行前端开发， 熟练使用常用组件库 ElementUI、AntDesign 等\n3、熟悉桌面端框架 Electron\n4、熟悉 Git 操作、Linux 操作、Docker、熟悉 Python、爬虫、Web 逆向、Puppeteer"
   },
   "theme": {
     "color": "#2f5785",
